@@ -355,7 +355,7 @@ main {
 }
 
 .info-content .title {
-  color: var(--white-2);
+  color: var(--orange-yellow-crayola);
   background: hsl(216, 44%, 36%);
   font-size: var(--fs-8);
   font-weight: var(--fw-300);
@@ -1054,7 +1054,7 @@ main {
 
 .blog-post-item > a {
   position: relative;
-  background: var(--border-gradient-onyx);
+  background: hsl(216, 44%, 36%);
   height: 100%;
   box-shadow: var(--shadow-4);
   border-radius: 16px;
@@ -1066,7 +1066,7 @@ main {
   position: absolute;
   inset: 1px;
   border-radius: inherit;
-  background: var(--eerie-black-1);
+  background: hsl(216, 44%, 36%);
   z-index: -1;
 }
 
